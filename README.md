@@ -1,12 +1,5 @@
----
-
-musicfree-aliyundrive-plugin
-
+musicfree‑aliyundrive‑plugin
+ 
 把阿里云盘当音乐库来放歌
-
-源：
-
-本插件仅供个人学习研究使用，请勿用于任何商业用途。
-使用即表示你已了解并遵守阿里云盘的用户协议。
-
----
+ 
+源：https://raw.githubusercontent.com/Ppangling/musicfree-aliyundrive-plugin/refs/heads/main/aliyundrive.js
