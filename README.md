@@ -2,4 +2,7 @@ musicfree‑aliyundrive‑plugin
  
 把阿里云盘当音乐库来放歌
  
-源：https://raw.githubusercontent.com/Ppangling/musicfree-aliyundrive-plugin/refs/heads/main/aliyundrive.js
+源地址：
+```text
+https://raw.githubusercontent.com/Ppangling/musicfree-aliyundrive-plugin/refs/heads/main/aliyundrive.js
+```
