@@ -1,8 +1,9 @@
-musicfree‑aliyundrive‑plugin
- 
-把阿里云盘当音乐库来放歌
- 
-源：https://raw.githubusercontent.com/Ppangling/musicfree-aliyundrive-plugin/refs/heads/main/aliyundrive.js
+已修正两处：
+
+1. 「阿里云盘网页版」改用 HTML 超链接，确保可点击。
+2. Local Storage 处的域名去掉 https://，避免被自动识别成超链接。
+
+---
 
 musicfree-aliyundrive-plugin
 
@@ -53,9 +54,9 @@ PARENT_FILE_ID（配置的根目录）
 
 获取步骤：
 
-1. 浏览器登录 阿里云盘网页版
+1. 浏览器登录 <a href="https://www.alipan.com/" target="_blank">阿里云盘网页版</a>
 2. 按 F12 打开开发者工具 → 切换到 Application（应用） 面板
-3. 左侧展开 Local Storage → 点击 https://www.alipan.com（若显示为 aliyundrive.com 同样操作）
+3. 左侧展开 Local Storage → 点击 www.alipan.com（若显示为 aliyundrive.com 同样操作）
 4. 在右侧键值列表中找到 token 项，其值为一段 JSON 字符串
 5. 从该 JSON 中提取 refresh_token 字段的值（不是复制整段 JSON）
 6. 格式为 32 位小写字母数字组合，复制时不带引号、空格或换行
