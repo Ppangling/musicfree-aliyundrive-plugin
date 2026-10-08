@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/Ppangling/musicfree-aliyundrive-plugin/refs/he
 
 ### 获取阿里云盘 Token
 
-本插件需要通过阿里云盘的 `refresh_token` 来访问你的云盘文件。推荐使用已有的阿里云盘第三方工具（如 Alist、aliyunpan 等）获取 Token，也可以参考阿里云盘开放平台的开发者文档。
+本插件需要通过阿里云盘的 `refresh_token` 来访问你的云盘文件。
 
 你需要准备以下参数：
 
