@@ -11,6 +11,10 @@
 ```text
 https://raw.githubusercontent.com/Ppangling/musicfree-aliyundrive-plugin/refs/heads/main/aliyundrive.js
 ```
+- **中国移动云盘：**
+```text
+https://raw.githubusercontent.com/Ppangling/musicfree-aliyundrive-plugin/refs/heads/main/MobileCloud.js
+```
 
 ## 这是什么
 
